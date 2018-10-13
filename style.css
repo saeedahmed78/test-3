@@ -1,0 +1,89 @@
+.icoss{
+    height: 70px;
+    width: 70px;
+    margin-right: 20px;
+    margin-top: -25px;
+}
+.navbar{
+  margin-top: 20px;
+}
+.nav-textt{
+    line-height: 0.5;
+    margin-top: -15px;
+
+}
+
+.img-textt{
+    display: flex;
+    
+}
+.textt-online{
+    color: #66b1e9;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.textt-online2{
+    color: black;
+}
+.container{
+    
+    margin-top: 20px;
+    
+}
+.img-div {
+    display: flex;
+    padding: 20px;
+}
+.book-img{
+    height: 300px;
+    width: 450px;
+}
+.cart-textt1{
+    color: #244c81;
+}
+.cart-textt2{
+    font-weight: bold;
+}
+.card-center{
+    /* max-width: 1000px; */
+}
+.btn-groups{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.input{
+    width: 70px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.amount{
+    color: #244c81;
+    font-weight: bold;  
+}
+.total-amount{
+    color: green;
+}
+.two-btn{
+    display: flex;
+}
+.alert{    
+ display: flex;
+ justify-content: center;  
+}
+.total-amoutn-dis{
+    color: #244c81;
+}
+.pricess{
+    color: #244c81;
+    font-weight: bold;
+}
+.main{
+
+    /* width: 100%; */
+}
+.input-btn{
+    background-color: #39a4e6;
+    color: white;
+}
